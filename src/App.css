@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  height: 100vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+button {
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.right {
+  right: 0;
+}
